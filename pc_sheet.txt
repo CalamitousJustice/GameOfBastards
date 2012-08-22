@@ -1,0 +1,44 @@
+notes on creation: 
+	1 point costs 1 xp in 
+		skill, trait, advantage
+	1 disad grants 1xp 
+	3 rank max in anything at creation
+
+name:
+	billy "bob" thorton
+	actor, shenanigizer, potato eater
+
+xp: 
+	1
+
+suit: 
+ 	Hearts	
+
+traits: 
+	clubs:		1
+	hearts:		3
+	spades:		2
+	diamonds:	2
+
+pools:
+	body	(C): 	5
+	spirit	(H):	15
+	mind	(S):	10
+	luck	(D):	10
+
+skills:
+	Guts 			2
+	Business 		2
+	Influence		3
+	Meditation		2
+	Craft(Theatre)	2
+
+advatanges: 
+	Cunning Linguist (x1)	
+
+disadvantages: 
+	Nervous Habit (potatoe eating)
+	
+specialities:
+	Influence x Craft(Theatre)
+		Acting		2
